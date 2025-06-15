@@ -1,4 +1,4 @@
 # Bluezon
 
-wm
+wsy wm
 123
